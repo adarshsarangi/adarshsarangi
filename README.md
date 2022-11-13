@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Sarangi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A frontend developer</h3>
 
 - 🔭 I’m currently working on web dev projects 
 - 🌱 I’m currently learning React and other js frameworks
